@@ -1,16 +1,20 @@
-##Cleaning-project
+# Cleaning-project
 
 Limpieza de un data set de Kaggle llamado Global Shark Attacks.
-#¿Ha aumentado el número de casos en mujeres estos últimos años?
+## ¿Ha aumentado el número de casos en mujeres estos últimos años?
 
 **PASO 1: Analizar el data set**
+
 Datos iniciales: 25723 x 24
 
 **PASO 2: Analizar las filas**
+
 Duplicados o con muchos valores NaN (>10)
 
 **PASO 3: Analizar las columnas**
+
 Columnas innecesarias (unnamed 22 y unnamed 23)
+
 Limpieza de columnas: Case Number, Country, Sex, Type, etc.
 
 **PASO 5: Analisis de los datos**
